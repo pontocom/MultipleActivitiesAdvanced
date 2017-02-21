@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+    
 
     // definir uma variável para ter o nome da app (apenas para não ter que repetir o texto várias vezes)
     protected static String APP_NAME = "MULTIPLE_ACTIVITIES_APP";
